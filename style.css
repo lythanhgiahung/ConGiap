@@ -5,6 +5,7 @@
 }
 body{
     background-color: pink;
+    width: 1500px;
 }
 .btn{
     position: absolute;
